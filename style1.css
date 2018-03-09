@@ -1,0 +1,70 @@
+.hello a{
+            margin-left: 40%;
+            font-size: 50px;
+            color:brown;
+            text-decoration: none;
+        }
+        
+        
+         .hello img{
+             height: 300px;
+             width: 400px;
+             margin-left: 40%;
+        }
+        
+        .hello p{
+            margin-left: 35%;
+            margin-right: 10%;
+            margin-top: -15%;
+            height: 200px;
+            font-size: 15px;
+        }
+
+        .hello1 h1{
+             margin-left: 30%;
+            font-size: 40px;
+            color:brown;
+            text-decoration: none;
+
+        }
+        .hello1 img{
+             height: 200px;
+             width: 300px;
+             margin-left: 40%;
+         }
+         .hello1 p{
+            margin-left: 15%;
+            margin-right: 15%;
+            margin-top: 0%;
+            height: 100px;
+            color:green;
+            font-size: 15px;
+        }
+         .hello1 h5{
+            font-weight: bold;
+            margin-left: 15%;
+            margin-right: 15%;
+            height: 200px;
+            color:green;
+            font-size: 15px;
+        }
+
+
+
+.well img
+{
+ height:100%;
+ width:100%;
+}
+.well a{
+    text-decoration: none;
+}
+.my p{
+    color: red;
+    font-size: 20px;
+}
+
+
+
+
+
